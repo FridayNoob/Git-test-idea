@@ -13,8 +13,7 @@ public class App
         System.out.println( "Hello Gi2" );
         System.out.println( "Hello Gi3" );
         System.out.println( "Hello Gi3" );
-
-
         System.out.println( "Hello hot-fix" );
+        System.out.println( "idea-update" );
     }
 }
